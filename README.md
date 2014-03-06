@@ -44,6 +44,8 @@ Qui permet de créer des fichiers images de 1080x1080px (1.16Mpix) alors que le 
 
 Chaque photo pèse ±21Mo, ce qui est énorme pour un fichier de sortie d'1Mpix! À quoi sert donc tout cet espace ? Et bien c'est simple : en plus de pouvoir controler la mise au point, lytro permet aussi de retoucher la perspective (cliquez pour refaire la mise au point, maintenez le clic et déplacez la souris pour changer la perspective) :
 
+http://pictures.lytro.com/lytroweb/pictures/437144/
+
 <center><iframe width='400' height='415' src='http://pictures.lytro.com/lytroweb/pictures/437144/embed' frameborder='0' allowfullscreen scrolling='no'></iframe></center>
 
 Le résultat est impréssionnant, n'est-ce pas ?
